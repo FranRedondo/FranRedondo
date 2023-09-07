@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ¡Hola! Soy Francisco, un estudiante apasionado de programación dispuesto a aprender y destacar en el mundo del desarrollo. Con 24 años y proveniente de Argentina, busco participar en emocionantes proyectos donde pueda aplicar mis habilidades.
 
 
