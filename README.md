@@ -1,8 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Francisco! :wave:</h1>
-  <br>
 </div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscoredondodominguez) 
 
