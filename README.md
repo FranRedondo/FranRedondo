@@ -2,6 +2,9 @@
   <h1>¡Hola, Soy Francisco! :wave:</h1>
 </div>
 
+Actualmente me encuentro estudiando la carrera Tecnicatura universitaria en programación en la Universidad Tecnológica Nacional sede San Rafael. 
+Me considero una persona con capacidad de comunicación, resolución de problemas y análisis. Siempre me encuentro en constante búsqueda de nuevos conocimientos y desafíos.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscoredondodominguez) 
 [![GitHub](https://img.shields.io/badge/GitHub-%230077B5.svg?logo=GitHub&logoColor=white)](https://github.com/FranRedondo) 
