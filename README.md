@@ -1,5 +1,5 @@
 <div align="center">
-  # ¡Hola! Soy Francisco! :wave:
+  <h1>¡Hola! Soy Francisco! :wave:</h1>
 </div>
 
 ## 🌐 Socials:
