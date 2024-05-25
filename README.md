@@ -3,6 +3,7 @@
 </div>
 
 Actualmente me encuentro estudiando la carrera Tecnicatura universitaria en programación en la Universidad Tecnológica Nacional sede San Rafael. 
+<br>
 Me considero una persona con capacidad de comunicación, resolución de problemas y análisis. Siempre me encuentro en constante búsqueda de nuevos conocimientos y desafíos.
 
 ## 🌐 Socials:
