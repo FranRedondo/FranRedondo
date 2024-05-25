@@ -1,5 +1,4 @@
 <div align="center">
-  <br>
   <h1>¡Hola! Soy Francisco! :wave:</h1>
 </div>
 
