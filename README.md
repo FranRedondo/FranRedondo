@@ -1,4 +1,4 @@
-<div aling = "center">
+<div align="center">
 # ¡Hola! Soy Francisco! :wave:
 </div>
 
